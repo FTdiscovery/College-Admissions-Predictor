@@ -4,7 +4,10 @@ import torch.nn.functional as F
 import math
 
 """
-jokes on you all this is a python network that doesn't have any significance
+jokes on you all this is a convolutional network that doesn't have any significance...
+"i'm just here to flex on you all"
+"write with tf.Session() as sess"
+"just write a self-learning loop for every assignment what do you mean"
 """
 
 class Network(nn.Module):
